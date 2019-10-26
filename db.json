@@ -2,5 +2,6 @@
     "userID": 1,
     "id": 5,
     "title": "something something",
-    "body": "something something something"
+    "body": "something something something",
+    "salary": 5000
 }
