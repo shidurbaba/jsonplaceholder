@@ -3,5 +3,6 @@
     "id": 5,
     "title": "something something",
     "body": "something something something",
-    "salary": 5000
+    "salary": 5000,
+    "career": "DevOps"
 }
