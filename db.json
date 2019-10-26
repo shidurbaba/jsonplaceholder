@@ -4,10 +4,7 @@
     "title": "something something",
     "body": "something something something",
     "salary": 5000,
-<<<<<<< HEAD
-    "occupation": "SDET"
+    "occupation": "SDET",
+	"career": "DevOps"
 }
-=======
-    "career": "DevOps"
-}
->>>>>>> db_v1.2
+
